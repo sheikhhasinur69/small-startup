@@ -42,3 +42,36 @@
 .sectionTwo__btn{
     justify-self: center;
 }
+
+
+/**
+* ! style rule for sectionThree 
+**/
+
+.sectionThree__right--text{
+    color: var(--color-dark-50);
+    font-family: var(--font-2);
+    font-size: var(--body);
+}
+
+.sectionThree__right--btn{
+    align-self: start;
+    margin-top: 20px;
+}
+
+
+
+/**
+* ! style rule for sectionFour 
+**/
+
+.sectionFour__left--text{
+    color: var(--color-dark-50);
+    font-family: var(--font-2);
+    font-size: var(--body);
+}
+
+.sectionFour__left--btn{
+    align-self: start;
+    margin-top: 20px;
+}
